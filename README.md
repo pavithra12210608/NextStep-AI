@@ -16,12 +16,17 @@ NextStep.AI is an AI-powered career path advisor that helps students and profess
 - (Optional) Resume analysis & feedback
 
 
-[Watch the 3-min demo video](https://your-video-link.here)
 
- 📊 Presentation Deck
+🎥 Demo
+
+[Watch the 3-min demo video](https://drive.google.com/file/d/1YiHNLa38p-XMI1lR8w_at3csvd4Roxa8/view?usp=sharing)
+
+
+
+📊 Presentation Deck
 
 See the approach, design, and impact:  
-[Download the 3-page pitch deck](deck/NextStep-AI-PitchDeck.pdf)
+📄 [Download the 3-page pitch deck](deck/NextStep-AI-PitchDeck.pdf)
 
 
  📁 Files
