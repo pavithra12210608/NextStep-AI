@@ -3,7 +3,8 @@
 NextStep.AI is an AI-powered career path advisor that helps students and professionals discover ideal career roles, analyze skill gaps, and receive a personalized learning roadmap.
 
 🛠️ Built with: [Lyzr.ai Studio](https://lyzr.ai)  
-🔗 Live Agent: [Click to Launch](https://your-agent-link.here)
+🔗 🔗 Live Agent: [Click to Launch](https://studio.lyzr.ai/public/agents/your-agent-id)
+
 
  🌟 Features
 
