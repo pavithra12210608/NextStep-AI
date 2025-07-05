@@ -36,7 +36,7 @@ See the approach, design, and impact:
 | `README.md` | Project overview |
 | `deck/`     | 3-page slide deck |
 | `video_link.txt` | Demo video link |
-| `screenshots/` *(optional)* | Demo images |
+
 
  📬 Submission
 
